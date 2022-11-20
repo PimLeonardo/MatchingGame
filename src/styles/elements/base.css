@@ -1,0 +1,6 @@
+body {
+  background-color: var(--color-backgound);
+  max-width: 95vh;
+  margin-left: auto;
+  margin-right: auto;
+}

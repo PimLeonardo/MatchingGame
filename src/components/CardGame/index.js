@@ -1,7 +1,9 @@
+import "./styles.css";
+
 function CardGame() {
-  return `
-    <article>
-        CardGame-oi
+  return /*html*/ `
+    <article class="card-game">
+        <img src="./images/icon.svg" />
     </article>
     `;
 }
