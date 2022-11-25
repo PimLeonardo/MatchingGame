@@ -2,5 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin: 25px 5px;
+  align-items: center;
+  margin: 35px 5px;
 }
